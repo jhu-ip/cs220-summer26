@@ -9,7 +9,7 @@ title: Homework 0
 <div class='content'>
 <ul>
 <li>You are expected to work individually.</li>
-<li><strong>Due: Monday, June 2nd (11pm Baltimore time).</strong></li>
+<li><strong>Due: Friday, June 5th (11pm Baltimore time).</strong></li>
 <li><em>This assignment is worth 20 points.</em></li>
 </ul>
 </div>
@@ -72,8 +72,8 @@ The behavior of each program is as follows:
 
 file name | desired output
 --------- | --------------
-*one.c* | The first prize goes to Jennifer.
-*two.c* | The second prize goes to Gongqi.
+*one.c* | The first prize goes to Frankie.
+*two.c* | The second prize goes to Johnny.
 *three.c* | The third prize goes to Pat.
 
 Compile and execute each of the three programs and ensure that they give
