@@ -9,7 +9,7 @@ title: Homework 0
 <div class='content'>
 <ul>
 <li>You are expected to work individually.</li>
-<li><strong>Due: Friday, June 5th (11pm Baltimore time).</strong></li>
+<li><strong>Due: Thursday, June 4th (11pm Baltimore time).</strong></li>
 <li><em>This assignment is worth 20 points.</em></li>
 </ul>
 </div>
