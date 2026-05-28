@@ -8,7 +8,7 @@ category: "syllabus"
 **Syllabus**\
 **Computer Science EN.601.220**\
 **Intermediate Programming**\
-**Summer 2025 (4 credits, E, online)**
+**Summer 2026 (4 credits, E, online)**
 
 *(The instructors reserve the right to make adjustments to this
 syllabus as deemed necessary with notice.)*
@@ -42,19 +42,14 @@ syllabus as deemed necessary with notice.)*
 
 **Instructor**
 
-Paul Martin\
+Ali Darvish\
 <mailto:pdm@jhu.edu>\\
-Office hours: By appointment (for online courses)
+Office hours: By appointment (for online courses) - contact instructor
 
 **Meetings**
 
-MWF 9:00 am – 10:50 am, via Zoom
+MWF 1:00 pm – 3:50 pm, via Zoom
 
-**Head Teaching Assistant**
-
-Rachael Pei\
-<mailto:rpei2@jhu.edu>\\
-Office hours: By appointment (for online courses)
 
 **Textbooks**
 
@@ -77,7 +72,7 @@ Office hours: By appointment (for online courses)
 The following sites will be used heavily during the course:
 
 -   The course website is
-    [jhu-ip.github.io/cs220-summer25/](https://jhu-ip.github.io/cs220-summer25).
+    [jhu-ip.github.io/cs220-summer26/](https://jhu-ip.github.io/cs220-summer26).
 
 -   Gradescope (<a class="external" target="_blank" href="https://www.gradescope.com/">https://www.gradescope.com/</a>) will be used
     for assignment submission, grades and feedback; you will receive an
@@ -304,16 +299,16 @@ gradescope and get autograder feedback on them.
 -   17% - final exam (in class, date August 1st)
 -->
 
--   36% - individual coding homework (4.5 total; due dates vary, will be
+-   20% - individual coding homework (4.5 total; due dates vary, will be
     listed on the course website)
 
--   14% - midterm coding project (in teams)
+-   10% - midterm coding project (in teams)
 
--   17% - midterm exam (in class, date July 7th)
+-   30% - midterm exam (in class, date TBD)
 
--   16% - final coding project (in teams)
+-   10% - final coding project (in teams)
 
--   17% - final exam (in class, date August 1st)
+-   30% - final exam (in class, date July 24)
 
 All scores and grader commentary on your homework and project
 submissions, as well as exams, will be available via Gradescope. Please

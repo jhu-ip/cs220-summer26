@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Intermediate Programming, Summer 2025"
+title: "Intermediate Programming, Summer 2026"
 category: "home"
 ---
 
-Welcome to the website for Intermediate Programming (Summer 2025) at
+Welcome to the website for Intermediate Programming (Summer 2026) at
 <a class="external" target="_blank" href="https://www.jhu.edu/">Johns Hopkins University</a>!
 
 *Course description*: This course teaches intermediate to advanced
