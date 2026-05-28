@@ -578,9 +578,9 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
       <td></td>
     </tr>
   </tbody>
-  -->
 </table>
 </div>
+-->
 <script type="text/javascript">
   // Create and register a click handler for button clicks to expand/contract
   // specified content div
