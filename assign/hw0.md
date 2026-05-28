@@ -72,9 +72,9 @@ The behavior of each program is as follows:
 
 file name | desired output
 --------- | --------------
-*one.c* | The first prize goes to Frankie.
-*two.c* | The second prize goes to Johnny.
-*three.c* | The third prize goes to Pat.
+*one.c* | 	Lina Zhang sets a new world record in wheelchair fencing, taking home the Gold!
+*two.c* | The Silver medal in synchronized swimming goes to Jordan and Samir.
+*three.c* | Team Kenya earns Bronze in the mixed 4 by 400m relay, celebrating unity through sport.
 
 Compile and execute each of the three programs and ensure that they give
 the output exactly as shown. Finally, add all three source files to your
