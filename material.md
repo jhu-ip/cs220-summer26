@@ -577,8 +577,8 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
       <td></td>
       <td></td>
     </tr>
-    -->
   </tbody>
+  -->
 </table>
 </div>
 <script type="text/javascript">
