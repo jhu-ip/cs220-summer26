@@ -10,8 +10,6 @@ of these dates could change. Any changes will be posted here and announced in cl
 Unless mentioned otherwise, assignments and projects are due at **11pm** (Baltimore time)
 on the due date.
 
-Note that there is no Homework 2, 4, or 6.
-
 
 | Assignment/Exam                        | Date                      | Day                 |
 |----------------------------------------|---------------------------|---------------------|
