@@ -43,7 +43,7 @@ syllabus as deemed necessary with notice.)*
 **Instructor**
 
 Ali Darvish\
-<mailto:pdm@jhu.edu>\\
+<mailto:darvish@jhu.edu>\\
 Office hours: By appointment (for online courses) - contact instructor
 
 **Meetings**
