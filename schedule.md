@@ -13,5 +13,5 @@ on the due date.
 
 | Assignment/Exam                        | Date                      | Day                 |
 |----------------------------------------|---------------------------|---------------------|
-| [Homework 0](assign/hw0.html)          | Due June 5th              | Friday 11PM         |
+| [Homework 0](assign/hw0.html)          | Due June 4th              | Thursday 11PM       |
 |----------------------------------------|---------------------------|---------------------

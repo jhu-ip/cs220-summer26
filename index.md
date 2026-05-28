@@ -39,4 +39,4 @@ to the course Gradescope in the first week.
 
 ## News
  
-* **May 28** — Welcome! The introductory [homework 0](assign/hw0.html) is available and due on June 5th.
+* **Jun 1** — Welcome! The introductory [homework 0](assign/hw0.html) is available and due on June 4th.
