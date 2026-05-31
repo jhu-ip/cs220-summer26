@@ -275,10 +275,10 @@ With the exception of Homework 0, which is worth 2% of the overall course grade,
 
 Each homework submission will be assigned one of the following ratings:
 
-* **Correct (4 points)**: Earns the full 4% allocated to the homework. The solution is complete, correct, and demonstrates a strong understanding of the concepts and requirements.
-* **Mostly Correct (3 points)**: Earns 3% out of the possible 4% allocated to the homework. The solution is largely correct, with only minor errors, omissions, or weaknesses that do not substantially affect the overall quality of the work.
-**Half Correct (2 points)**: Earns 2% out of the possible 4% allocated to the homework. The solution demonstrates partial understanding and contains some correct elements, but significant portions are incomplete, incorrect, or missing.
-**Mostly Incorrect (1 point)**: Earns 1% out of the possible 4% allocated to the homework. The submission shows limited understanding of the assignment requirements and contains substantial errors, though some meaningful effort is evident.
+* **Correct (4 points)**: Earns the full 4% allocated to the homework. The solution is complete, correct, and demonstrates a strong understanding of the concepts and requirements.<br/>
+* **Mostly Correct (3 points)**: Earns 3% out of the possible 4% allocated to the homework. The solution is largely correct, with only minor errors, omissions, or weaknesses that do not substantially affect the overall quality of the work.<br/>
+**Half Correct (2 points)**: Earns 2% out of the possible 4% allocated to the homework. The solution demonstrates partial understanding and contains some correct elements, but significant portions are incomplete, incorrect, or missing.<br/>
+**Mostly Incorrect (1 point)**: Earns 1% out of the possible 4% allocated to the homework. The submission shows limited understanding of the assignment requirements and contains substantial errors, though some meaningful effort is evident.<br/>
 **Incorrect (0 points)**: Earns 0% from the homework. The submission is largely incorrect, does not address the assignment requirements, is missing, or demonstrates little to no meaningful effort.
 
 The assigned rating will reflect the overall quality and correctness of the submission as a whole rather than the number of individual mistakes. Homework feedback may be concise, and students are encouraged to seek clarification during office hours if they would like a more detailed discussion of their performance.
