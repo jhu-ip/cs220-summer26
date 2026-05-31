@@ -269,6 +269,14 @@ exception if you ask before an assignment is due, rather than after. No
 exceptions will be given for failure to plan ahead or simply having
 "too much work."
 
+Given that homework assignments are lower-stake assignments, they will be graded using a simplified grading scheme. Each submitted homework will be graded as one of: correct (4 pts), mostly correct (3 pts), half correct (2 pts), mostly incorrect(1 pts), incorrect (0 pts). 
+
+**Code Walkthroughs** 
+
+At any point during the semester, you may be asked by the course staff to participate in a code walkthrough session for any submitted work, including homework assignments and projects. During a code walkthrough, you will be expected to explain your submitted solution, discuss your design and implementation decisions, and answer technical questions related to your code and the underlying concepts.
+
+You should be able to clearly explain, justify, and defend all aspects of your submission in order to retain the credit earned for that assignment. Failure to adequately demonstrate understanding of the submitted work may result in a reduction of the assignment grade and may also lead to further review under the course academic integrity policies.
+
 **In-class Exercises**
 
 Many of the course topics will be supported by an exercise. Although
@@ -299,16 +307,16 @@ gradescope and get autograder feedback on them.
 -   17% - final exam (in class, date August 1st)
 -->
 
--   20% - individual coding homework (4.5 total; due dates vary, will be
+-   18% - individual coding homework (4.5 total; due dates vary, will be
     listed on the course website)
 
--   10% - midterm coding project (in teams)
+-   7% - midterm coding project (in teams)
 
--   30% - midterm exam (in class, date TBD)
+-   34% - midterm exam (in class, date TBD)
 
--   10% - final coding project (in teams)
+-   7% - final coding project (in teams)
 
--   30% - final exam (in class, date July 24)
+-   34% - final exam (in class, date July 24)
 
 All scores and grader commentary on your homework and project
 submissions, as well as exams, will be available via Gradescope. Please
