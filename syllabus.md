@@ -269,13 +269,27 @@ exception if you ask before an assignment is due, rather than after. No
 exceptions will be given for failure to plan ahead or simply having
 "too much work."
 
-Given that homework assignments are lower-stake assignments, they will be graded using a simplified grading scheme. Each submitted homework will be graded as one of: correct (4 pts), mostly correct (3 pts), half correct (2 pts), mostly incorrect(1 pts), incorrect (0 pts). 
+Because homework assignments are intended to be lower-stakes assessments that provide students with regular opportunities to practice and receive feedback, they will be graded using a simplified rubric rather than a detailed point-by-point evaluation.
+
+With the exception of Homework 0, which is worth 2% of the overall course grade, each homework assignment is worth 4% of the overall course grade. The simplified homework ratings correspond directly to the percentage points earned toward the overall course grade from that homework. 
+
+Each homework submission will be assigned one of the following ratings:
+
+* **Correct (4 points)**: Earns the full 4% allocated to the homework. The solution is complete, correct, and demonstrates a strong understanding of the concepts and requirements.
+* **Mostly Correct (3 points)**: Earns 3% out of the possible 4% allocated to the homework. The solution is largely correct, with only minor errors, omissions, or weaknesses that do not substantially affect the overall quality of the work.
+**Half Correct (2 points)**: Earns 2% out of the possible 4% allocated to the homework. The solution demonstrates partial understanding and contains some correct elements, but significant portions are incomplete, incorrect, or missing.
+**Mostly Incorrect (1 point)**: Earns 1% out of the possible 4% allocated to the homework. The submission shows limited understanding of the assignment requirements and contains substantial errors, though some meaningful effort is evident.
+**Incorrect (0 points)**: Earns 0% from the homework. The submission is largely incorrect, does not address the assignment requirements, is missing, or demonstrates little to no meaningful effort.
+
+The assigned rating will reflect the overall quality and correctness of the submission as a whole rather than the number of individual mistakes. Homework feedback may be concise, and students are encouraged to seek clarification during office hours if they would like a more detailed discussion of their performance.
 
 **Code Walkthroughs** 
 
-At any point during the semester, you may be asked by the course staff to participate in a code walkthrough session for any submitted work, including homework assignments and projects. During a code walkthrough, you will be expected to explain your submitted solution, discuss your design and implementation decisions, and answer technical questions related to your code and the underlying concepts.
+At any point during the semester, you may be asked by the course staff to participate in a code walkthrough session for any of the submitted work, including homework assignments and projects. During a code walkthrough, you will be expected to explain your submitted solution, discuss your design and implementation decisions, and answer technical questions related to your code and the underlying concepts.
 
 You should be able to clearly explain, justify, and defend all aspects of your submission in order to retain the credit earned for that assignment. Failure to adequately demonstrate understanding of the submitted work may result in a reduction of the assignment grade and may also lead to further review under the course academic integrity policies.
+
+* **Important Note:** You may be invited to participate in a code walkthrough session multiple times throughout the semester. Code walkthroughs may be conducted for different assignments or projects, and in some cases, you may be asked to participate in more than one walkthrough for the same submission. Students should therefore be prepared at all times to explain and defend any submitted work, regardless of when it was originally submitted.
 
 **In-class Exercises**
 
