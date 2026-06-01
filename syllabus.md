@@ -225,6 +225,66 @@ their understanding of topics. There is a wealth of programming
 information on the internet; if one explanation doesn't make sense, you
 can probably find another that does.
 
+
+**Collaboration, Code Reuse and Citations**
+
+While code reuse is an important feature of modern programming, for
+this course, you will be expected to write most of the code for your
+homework assignments from scratch. You may use language libraries
+(according to assignment specifications), and you may always reuse
+your own code from prior work in the course. Using and adapting code
+from class examples, slides, or the textbook is acceptable and
+expected.  While you are strongly encouraged to seek assistance
+primarily from course staff, some collaboration with others in the
+course and/or AI-assisted tools is permitted. You may discuss homework
+approaches and get help with code snippets, but you must not generate,
+co-develop or share whole solutions. You are responsible for
+understanding and being able to explain any code in your solutions
+that you did not generate yourself. All collaboration (including
+internet/AI-assistance) must be clearly documented in your submission, using inline comments to delineate wherever non-original code appears. For example,
+```c
+// begin collaboration with chatGPT4
+   [actual non-original code goes here]
+// end collaboration with chatGPT4
+```
+Any code segment resulting from collaboration should be no more than ten lines long. 
+**Ethics violations** will include: failure to cite collaboration,
+copying substantially from others, sharing substantial code with
+others, and downloading/generating full solutions from the internet
+(including chatGPT or similar AI-assisted coding tools).
+
+*WARNING*
+
+AI tools can help with brainstorming, boilerplate generation, and learning alternative approaches to coding problems. However, responsibility for all submitted code rests solely with the submitting student(s). You must understand every line of code that you submit in assignments, projects, and exams. If you use AI to generate code:
+
+* You are expected to review, test, and debug it thoroughly.
+* You must be able to explain how and why your code works.
+* If your code fails or behaves unexpectedly, it is your responsibility to debug and correct it. The course staff is not responsible for fixing bugs and glitches.
+* You must document all sections that you didn't write yourself.
+* Blind or uncritical reliance on AI output is not acceptable and may result in penalty on your grades.
+
+
+Try to use incremental development so that even if you run
+out of time, you can still turn in code that implements some of the
+desired functionality (with a README file and comments explaining what's
+missing). Keep in mind that half the features working all the way will
+get you a lot more partial credit than all the features half-way
+working. Good use of the version control system will significantly help
+with your incremental development. For each commit, you should update
+your README file to outline what's missing and what's done, and try to
+keep each commit a submittable version. This is a good practice, and can
+come in very handy in case you accidentally delete the local copy of
+your homework!
+
+Students are expected to learn material outside of class time and
+homework, as well. We will generally provide links to tutorials,
+references, and other resources for each topic. Students are expected to
+read these, as well as seek out other resources on their own to further
+their understanding of topics. There is a wealth of programming
+information on the internet; if one explanation doesn't make sense, you
+can probably find another that does. Course staff can help you understand these resources as well. 
+
+
 **Homework policy**
 
 Assignments will be due **by 11:00 pm on the due date** (unless
@@ -285,7 +345,7 @@ The assigned rating will reflect the overall quality and correctness of the subm
 
 **Code Walkthroughs** 
 
-At any point during the semester, you may be asked by the course staff to participate in a code walkthrough session for any of the submitted work, including homework assignments and projects. During a code walkthrough, you will be expected to explain your submitted solution, discuss your design and implementation decisions, and answer technical questions related to your code and the underlying concepts.
+At any point during the semester, you may be asked by the course staff to participate in a code walkthrough session for any of the submitted work, including homework assignments and projects. During a code walkthrough, you will be expected to explain your submitted solution, discuss your design and implementation decisions, and answer technical questions related to your code and the underlying algorithm and/or concepts.
 
 You should be able to clearly explain, justify, and defend all aspects of your submission in order to retain the credit earned for that assignment. Failure to adequately demonstrate understanding of the submitted work may result in a reduction of the assignment grade and may also lead to further review under the course academic integrity policies.
 
