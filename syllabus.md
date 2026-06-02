@@ -48,7 +48,7 @@ Office hours: By appointment (for online courses) - contact instructor
 
 **Meetings**
 
-MWF 1:00 pm – 3:50 pm, via Zoom
+MWF 1:00 pm – 3:15 pm, via Zoom
 
 
 **Textbooks**
