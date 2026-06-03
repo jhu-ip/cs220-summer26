@@ -37,7 +37,7 @@ Gradescope and recieve feedback and your work in there. Regrade requests
 can be made and are processed on Gradescope as well. You get an invitation
 to the course Gradescope in the first week.
 
-<a class="external" target="_blank" href="https://piazza.com/class/mpxcha12pc34tu/">Piazza</a> is used for all course communications!
+<a class="external" target="_blank" href="https://piazza.com/class/mpxcha12pc34tu/">Piazza</a> is used for all course communications! Use <em>u7sinygmkhh</em> code to self-join!
 
 ## News
  
