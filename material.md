@@ -84,7 +84,6 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
     <tr>
       <td>Slides</td>
       <td><a href='slides/day05_arrays.pdf'>Arrays</a><br><a href='slides/day05_c_strings.pdf'>C strings</a><br><a href='slides/day06_fileio_assertion_math.pdf'>File I/O, assert, math functions</a><br><a href='slides/day06_functions_command_line_arguments.pdf'>Writing functions, command line arguments</a></td>
-      <td><a href='slides/day07_function_declaration.pdf'>Function declarations</a><br><a href='slides/day07_passing_arrays_to_functions.pdf'>Passing arrays to functions</a><br><a href='slides/day07_recursion.pdf'>Recursion</a><br><a href='slides/day08_separate_compilation.pdf'>Separate compilation</a><br><a href='slides/day08_makefiles.pdf'>Makefiles</a><br><a href='slides/day08_header_guards.pdf'>Header guards</a></td>
       <td><a href='slides/day09_multidimensional_arrays_gdb.pdf'>Multidimensional arrays, gdb</a><br><a href='slides/day10_pointers.pdf'>Pointers</a></td>
       <td><a href='slides/day11_dynamic_memory_allocation.pdf'>Dynamic Memory Allocation</a><br><a href='slides/day11_valgrind.pdf'>Valgrind</a><br><a href='slides/day12_pointer_arithmetic.pdf'>Pointer Arithmetic</a><br><a href='slides/day12_more_pointers_dynamic_2d_arrays.pdf'>Dynamic 2-D Arrays, Pointers and Const</a></td>
     </tr>
