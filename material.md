@@ -63,7 +63,7 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
   </tbody>
 </table>
 </div>
-<button type="button" id="week_2_toggle" class="week_control_button">Week 2 (8-Jun to 10-Jun)</button>
+<button type="button" id="week_2_toggle" class="week_control_button">Week 2 (8-Jun to 12-Jun)</button>
 <div id="week_2" class="collapsible">
 <table>
   <thead>
