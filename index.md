@@ -41,4 +41,5 @@ to the course Gradescope in the first week.
 
 ## News
  
+* **Jun 4** — [homework 1](assign/hw1.html) is posted! Due Tuesday June 9th, 11PM.
 * **Jun 1** — Welcome! The introductory [homework 0](assign/hw0.html) is available and due on June 4th.
