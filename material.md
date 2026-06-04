@@ -77,27 +77,29 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
   <tbody>
     <tr>
       <td>Videos</td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58f4d402-fd0d-4868-b805-ae230027ab93'>Arrays, ASCII</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06a4f1da-f6a1-4212-b686-ae230027ab33'>C strings</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae149930-15ce-460c-a2df-ae230027aac0'>File I/O, assert, math functions</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1de2958b-f8b8-4fae-ac47-ae230027aa77'>Writing functions, command line arguments</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bbef007b-88a8-4e42-bcc4-ae230027a8f4'>Function declarations</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c18158bd-cf31-48c4-a2c0-ae230027a87e'>Passing arrays to functions</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12215376-94e9-48dd-8d5a-ae230027937e'>Recursion</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76660996-f221-4bda-85bf-ae230027aa0b'>Separate compilation</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=956ae811-74a5-48f2-8d73-ae230027a9b0'>Makefiles</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76a9e1f6-07f3-483c-9341-ae230027a948'>Header guards</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67aec427-5035-40bb-a34f-ae230027a824'>Multidimensional arrays, gdb</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7dd96f56-4676-4f7c-913d-ae230027a7a3'>Pointers</a></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88e3945a-f1f2-4442-825e-ae230027a746'>Dynamic Memory Allocation</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4c78306-67c7-4184-955f-ae230027a6b2'>Valgrind</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d83163b7-7827-4bca-a6ca-ae2300279303'>Pointer Arithmetic</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b124364-dcca-4e9b-b276-ae23002792a9'>Dynamic 2-D Arrays, Pointers and Const</a></td>
     </tr>
     <tr>
       <td>Slides</td>
       <td><a href='slides/day05_arrays.pdf'>Arrays</a><br><a href='slides/day05_c_strings.pdf'>C strings</a><br><a href='slides/day06_fileio_assertion_math.pdf'>File I/O, assert, math functions</a><br><a href='slides/day06_functions_command_line_arguments.pdf'>Writing functions, command line arguments</a></td>
       <td><a href='slides/day07_function_declaration.pdf'>Function declarations</a><br><a href='slides/day07_passing_arrays_to_functions.pdf'>Passing arrays to functions</a><br><a href='slides/day07_recursion.pdf'>Recursion</a><br><a href='slides/day08_separate_compilation.pdf'>Separate compilation</a><br><a href='slides/day08_makefiles.pdf'>Makefiles</a><br><a href='slides/day08_header_guards.pdf'>Header guards</a></td>
       <td><a href='slides/day09_multidimensional_arrays_gdb.pdf'>Multidimensional arrays, gdb</a><br><a href='slides/day10_pointers.pdf'>Pointers</a></td>
+      <td><a href='slides/day11_dynamic_memory_allocation.pdf'>Dynamic Memory Allocation</a><br><a href='slides/day11_valgrind.pdf'>Valgrind</a><br><a href='slides/day12_pointer_arithmetic.pdf'>Pointer Arithmetic</a><br><a href='slides/day12_more_pointers_dynamic_2d_arrays.pdf'>Dynamic 2-D Arrays, Pointers and Const</a></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td><a href='questions/day05.html'>Day 5</a><br><a href='questions/day06.html'>Day 6</a></td>
       <td><a href='questions/day07.html'>Day 7</a><br><a href='questions/day08.html'>Day 8</a></td>
       <td><a href='questions/day09.html'>Day 9</a><br><a href='questions/day10.html'>Day 10</a></td>
+      <td><a href='questions/day11.html'>Day 11</a><br><a href='questions/day12.html'>Day 12</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
-      <td><a href='exercise/ex05.html'>Exercise 5</a><br><a href='exercise/ex06.html'>Exercise 6</a></td>
       <td><a href='exercise/ex07.html'>Exercise 7</a><br><a href='exercise/ex08.html'>Exercise 8</a></td>
       <td><a href='exercise/ex09.html'>Exercise 9</a><br><a href='exercise/ex10.html'>Exercise 10</a></td>
+      <td><a href='exercise/ex11.html'>Exercise 11</a><br><a href='exercise/ex12.html'>Exercise 12</a></td>
+      
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
@@ -123,12 +125,10 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
   <tbody>
     <tr>
       <td>Videos</td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88e3945a-f1f2-4442-825e-ae230027a746'>Dynamic Memory Allocation</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4c78306-67c7-4184-955f-ae230027a6b2'>Valgrind</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d83163b7-7827-4bca-a6ca-ae2300279303'>Pointer Arithmetic</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b124364-dcca-4e9b-b276-ae23002792a9'>Dynamic 2-D Arrays, Pointers and Const</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fa78f1f-431c-40ea-95e2-ae230027a663'>Lifetime/Scope</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81f128ab-96f2-433e-b770-ae230027a5f4'>Structs</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e02cd998-bfde-4c4a-977a-ae23002791e7'>Random number generation</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a428f88-2a13-420b-b008-ae230027a35f'>Binary file I/O</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=373770ad-6472-4b72-b789-ae230027a246'>Bitwise operations</a></td>
     </tr>
     <tr>
       <td>Slides</td>
-      <td><a href='slides/day11_dynamic_memory_allocation.pdf'>Dynamic Memory Allocation</a><br><a href='slides/day11_valgrind.pdf'>Valgrind</a><br><a href='slides/day12_pointer_arithmetic.pdf'>Pointer Arithmetic</a><br><a href='slides/day12_more_pointers_dynamic_2d_arrays.pdf'>Dynamic 2-D Arrays, Pointers and Const</a></td>
       <td><a href='slides/day13_lifetime_scope.pdf'>Lifetime/Scope</a><br><a href='slides/day13_struct_type.pdf'>Structs</a><br><a href='slides/day13_random_numbers.pdf'>Random number generation</a><br><a href='slides/day14_binary_file_io.pdf'>Binary file I/O</a><br><a href='slides/day14_bitwise_operations.pdf'>Bitwise operations</a></td>
     </tr>
     <tr>
