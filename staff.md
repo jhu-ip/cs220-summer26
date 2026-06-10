@@ -21,3 +21,14 @@ category: "staff"
   </div>
 </div>
 
+<div class="card_container">
+  <div class="card">
+    <img alt="Ali photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
+    <div class="details">
+     <span class="name_and_role">Bob Dong</span><br>
+     Department of Computer Science<br>
+     Email: <a href="mailto:pdm@jhu.edu">bdong9@jh.edu</a><br>
+     Office hours: Contact the head TA; By appointment (for online courses)
+    </div>
+  </div>
+</div>
