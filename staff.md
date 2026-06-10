@@ -14,8 +14,7 @@ category: "staff"
     <div class="details">
      <span class="name_and_role">Ali Darvish</span><br>
      Department of Computer Science<br>
-     Email: <a href="mailto:pdm@jhu.edu">darvish@jhu.edu</a><br>
-     <!-- Web: <a class="external" target="_blank" href="https://github.com/pauldmartinphd">https://github.com/pauldmartinphd</a><br> -->
+     Email: <a href="mailto:darvish@jhu.edu">darvish@jhu.edu</a><br>
      Office hours: Contact the instructor; By appointment (for online courses)
     </div>
   </div>
@@ -27,7 +26,7 @@ category: "staff"
     <div class="details">
      <span class="name_and_role">Bob Dong</span><br>
      Department of Computer Science<br>
-     Email: <a href="mailto:pdm@jhu.edu">bdong9@jh.edu</a><br>
+     Email: <a href="mailto:bdong9@jh.edu">bdong9@jh.edu</a><br>
      Office hours: Contact the head TA; By appointment (for online courses)
     </div>
   </div>
