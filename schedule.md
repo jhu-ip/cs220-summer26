@@ -15,7 +15,7 @@ on the due date.
 |----------------------------------------|---------------------------|---------------------|
 | [Homework 0](assign/hw0.html)          | Due June 4th              | Thursday 11PM       |
 |----------------------------------------|---------------------------|---------------------
-| [Homework 1](assign/hw1.html)          | Due June 9th              | Tuesday 11PM       |
+| [Homework 1](assign/hw1.html)          | Due June 9th              | Tuesday 11PM        |
 |----------------------------------------|---------------------------|---------------------
-| [Homework 2](assign/hw2.html)          | Due June 9th              | Tuesday 11PM       |
+| [Homework 2](assign/hw2.html)          | Due June 15th             | Monday 11PM         |
 |----------------------------------------|---------------------------|---------------------
