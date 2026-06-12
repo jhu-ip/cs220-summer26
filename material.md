@@ -142,7 +142,7 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
     <tr>
       <td>Exercise</td>
       <td><a href='exercise/ex13.html'>Exercise 13</a><br><a href='exercise/ex14.html'>Exercise 14</a></td>
-      <td><a href='exercise/ex15.html'>Exercise 15</a><br></td>
+      <td><a href='exercise/ex15.html'>Exercise 15</a><br><a href=''>Midterm Project</a></td>
       <td><a href='exercise/ex16.html'>Exercise 16</a><br><a href='exercise/ex17.html'>Exercise 17</a></td>
     </tr>
     <tr>
