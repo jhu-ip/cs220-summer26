@@ -16,7 +16,7 @@ Then add, commit, and push both material.csv and material.md.
 -->
 
 You can click on the header for a specific week to expand or collapse
-the materials for that week. Recorded lectures can be found in Canvas in the Panopto tab for our class.
+the materials for that week.
 
 <button type="button" id="week_1_toggle" class="week_control_button">Week 1 (1-Jun to 5-Jun)</button>
 <div id="week_1" class="collapsible">
