@@ -19,5 +19,5 @@ on the due date.
 |----------------------------------------|---------------------------|---------------------
 | [Homework 2](assign/hw2.html)          | Due June 15th             | Monday 11PM         |
 |----------------------------------------|---------------------------|---------------------
-| [midterm](assign/midterm.html)         | Due June 24th             | Wednesday 11PM      |
+| [Midterm Project](assign/midterm.html) | Due June 24th             | Wednesday 11PM      |
 |----------------------------------------|---------------------------|---------------------
