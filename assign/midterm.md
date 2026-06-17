@@ -365,7 +365,7 @@ Make sure to apply the effect on only 3% of the total pixels of the input image.
 <div class='admonition note'>
 <div class='title'>Note 2</div>
 <div class='content'>
-When implementing this operation, you will need to generate random numbers. <s>To facilitate the testing and grading of your work, do not make any calls to srand() function in your code. In other words, do not change the default seed value of 1 (recall that not calling srand is the same as calling srand(1)) to keep things predictable and testable.</s>
+When implementing this operation, you will need to generate random numbers. Use seed value of 1.
 </div>
 </div>
 
