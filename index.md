@@ -40,7 +40,7 @@ to the course Gradescope in the first week.
 <a class="external" target="_blank" href="https://piazza.com/class/mpxcha12pc34tu/">Piazza</a> is used for all course communications! Use <em>u7sinygmkhh</em> code to self-join!
 
 ## News
-* **Jun 17** — [midterm project](assign/midterm.html) is posted! Due Monday June 24th, 11PM. 
+* **Jun 17** — [midterm project](assign/midterm.html) is posted! Due Wednesday June 24th, 11PM. 
 * **Jun 9** — [homework 2](assign/hw2.html) is posted! Due Monday June 15th, 11PM. 
 * **Jun 4** — [homework 1](assign/hw1.html) is posted! Due Tuesday June 9th, 11PM.
 * **Jun 1** — Welcome! The introductory [homework 0](assign/hw0.html) is available and due on June 4th.
