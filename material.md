@@ -117,7 +117,7 @@ the materials for that week.
       <th></th>
       <th>Day 7 (15-Jun)</th>
       <th>Day 8 (17-Jun)</th>
-      <th>Day 9 (19-Jun)</th>
+      <th>(19-Jun)</th>
     </tr>
   </thead>
   <tbody>
@@ -137,13 +137,13 @@ the materials for that week.
       <td>Recap<br>Questions</td>
       <td><a href='questions/day13.html'>Day 13</a><br><a href='questions/day14.html'>Day 14</a></td>
       <td><a href='questions/day15.html'>Day 15</a></td>
-      <td>N/A</td>
+      <td>NA</td>
     </tr>
     <tr>
       <td>Exercise</td>
       <td><a href='exercise/ex13.html'>Exercise 13</a><br><a href='exercise/ex14.html'>Exercise 14</a></td>
       <td><a href='exercise/ex15.html'>Exercise 15</a><br><a href=''>Midterm Project</a></td>
-      <td>N/A</td>
+      <td>NA</td>
       <N/A>
     </tr>
     <tr>
