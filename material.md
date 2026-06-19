@@ -154,34 +154,41 @@ the materials for that week.
   </tbody>
 </table>
 </div>
-<!--
-<button type="button" id="week_4_toggle" class="week_control_button">Week 4 (16-Jun to 16-Jun)</button>
+<button type="button" id="week_4_toggle" class="week_control_button">Week 4 (22-Jun to 26-Jun)</button>
 <div id="week_4" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 9 (16-Jun)</th>
-      <th>Day 10 (18-Jun)</th>
-      <th>Day 11 (16-Jun)</th>
+      <th>Day 9 (22-Jun)</th>
+      <th>Day 10 (24-Jun)</th>
+      <th>Day 11 (26-Jun)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=254ea75c-12a1-456c-b91d-ae230027a0c6'>Linked lists</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06994aeb-6743-4fcd-b69f-ae2300279d42'>More Linked lists</a></td>
+      <td>Work on Project/Prep for Midterm Exam</td>
+      <td>Midterm Exam</td>
     </tr>
     <tr>
       <td>Slides</td>
       <td><a href='slides/day16_linked_lists.pdf'>Linked lists</a><br><a href='slides/day17_more_linked_lists.pdf'>More Linked lists</a></td>
+      <td>Work on Project/Prep for Midterm Exam</td>
+      <td>Midterm Exam</td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
       <td><a href='questions/day16.html'>Day 16</a><br><a href='questions/day17.html'>Day 17</a></td>
+      <td>NA</td>
+      <td>NA</td>
     </tr>
     <tr>
       <td>Exercise</td>
       <td><a href='exercise/ex16.html'>Exercise 16</a><br><a href='exercise/ex17.html'>Exercise 17</a></td>
+      <td>NA</td>
+      <td>NA</td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
@@ -189,22 +196,11 @@ the materials for that week.
       <td></td>
       <td></td>
     </tr>
-    <tr>
-      <td>Lecture<br>Slides</td>
-      <td><a href='slides/summer24_slides/summer24_session07_day13-14_annotated.pdf'>Day 7 Notes (annotated)</a></td>
-      <td><a href='slides/summer24_slides/summer24_session09_day15-00_annotated.pdf'>Day 9 Notes (annotated)</a></td>
-      <td><a href='slides/summer24_slides/summer24_session10_day17-18_annotated.pdf'>Day 10 Notes (annotated)</a></td>
-    </tr>
-    <tr>
-      <td>Recorded<br>Sessions</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 </div>
-<button type="button" id="week_5_toggle" class="week_control_button">Week 5 (23-Jun to 27-Jun)</button>
+<<!--
+button type="button" id="week_5_toggle" class="week_control_button">Week 5 (23-Jun to 27-Jun)</button>
 <div id="week_5" class="collapsible">
 <table>
   <thead>
