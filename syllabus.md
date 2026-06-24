@@ -386,7 +386,7 @@ gradescope and get autograder feedback on them.
 
 -   7% - midterm coding project (in teams)
 
--   34% - midterm exam (in class, date TBD)
+-   34% - midterm exam (in class, date June 26)
 
 -   7% - final coding project (in teams)
 
