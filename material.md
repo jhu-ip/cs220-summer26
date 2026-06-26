@@ -220,7 +220,7 @@ the materials for that week.
     <tr>
       <td>Slides</td>
       <td><a href='slides/day22_intro_cpp.pdf'>Introduction to C++</a><br><a href='slides/day22_cpp_strings.pdf'>C++ Strings</a><br/><a href='slides/day23_stl_templates.pdf'>Introduction to STL and templates</a></td>
-      <td><a href='slides/day24_more_stl_containers.pdf'>STL Containers - map, pair, and tuple</a><br><a href='slides/day24_stl_algorithms.pdf'>STL Algorithms</a><a href='slides/day25_cpp_file_io_stringstream.pdf'>C++ I/O stream and stringstream</a><br><a href='slides/day25_intro_to_oo.pdf'>Intro to Object Oriented Programming</a></td>
+      <td><a href='slides/day24_more_stl_containers.pdf'>STL Containers - map, pair, and tuple</a><br><a href='slides/day24_stl_algorithms.pdf'>STL Algorithms</a><br><a href='slides/day25_cpp_file_io_stringstream.pdf'>C++ I/O stream and stringstream</a><br><a href='slides/day25_intro_to_oo.pdf'>Intro to Object Oriented Programming</a></td>
       <td>University Holiday</td>
     </tr>
     <tr>
@@ -258,13 +258,12 @@ the materials for that week.
   <tbody>
     <tr>
       <td>Videos</td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2760c264-312d-49f2-9e43-ae2300279acb'>Introduction to C++</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=954ea030-61b3-482d-96e8-ae2300279a4f'>C++ Strings</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736'>Introduction to STL and templates</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c12342a6-6af3-4859-9da6-ae2300279661'>STL Containers - map, pair, and tuple</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c08d312c-963d-485b-84bf-ae23002796be'>STL Algorithms</a></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Slides</td>
-      <td><a href='slides/day22_intro_cpp.pdf'>Introduction to C++</a><br><a href='slides/day22_cpp_strings.pdf'>C++ Strings</a></td>
-      <td><a href='slides/day23_stl_templates.pdf'>Introduction to STL and templates</a><br><a href='slides/day24_more_stl_containers.pdf'>STL Containers - map, pair, and tuple</a><br><a href='slides/day24_stl_algorithms.pdf'>STL Algorithms</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
