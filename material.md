@@ -199,57 +199,44 @@ the materials for that week.
   </tbody>
 </table>
 </div>
-<!--
 button type="button" id="week_5_toggle" class="week_control_button">Week 5 (23-Jun to 27-Jun)</button>
 <div id="week_5" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 12 (23-Jun)</th>
-      <th>Day 13 (25-Jun)</th>
-      <th>Day 14 (27-Jun)</th>
+      <th>Day 12 (29-Jun)</th>
+      <th>Day 13 (1-July)</th>
+      <th>Day 14 (3-July)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td>N/A</td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2760c264-312d-49f2-9e43-ae2300279acb'>Introduction to C++</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=954ea030-61b3-482d-96e8-ae2300279a4f'>C++ Strings</a><br/><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736'>Introduction to STL and templates</a></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c12342a6-6af3-4859-9da6-ae2300279661'>STL Containers - map, pair, and tuple</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c08d312c-963d-485b-84bf-ae23002796be'>STL Algorithms</a><br/><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f35cdf8e-80d0-4d88-b9e3-ae2300279562'>C++ I/O stream and stringstream</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=090adf84-0330-4c2f-9c73-ae230027a599'>Intro to Object Oriented Programming</a></td>
+      <td>University Holiday</td>
     </tr>
     <tr>
       <td>Slides</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td>N/A</td>
+      <td><a href='slides/day22_intro_cpp.pdf'>Introduction to C++</a><br><a href='slides/day22_cpp_strings.pdf'>C++ Strings</a><br/><a href='slides/day23_stl_templates.pdf'>Introduction to STL and templates</a></td>
+      <td><a href='slides/day24_more_stl_containers.pdf'>STL Containers - map, pair, and tuple</a><br><a href='slides/day24_stl_algorithms.pdf'>STL Algorithms</a><a href='slides/day25_cpp_file_io_stringstream.pdf'>C++ I/O stream and stringstream</a><br><a href='slides/day25_intro_to_oo.pdf'>Intro to Object Oriented Programming</a></td>
+      <td>University Holiday</td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td>N/A</td>
-      <td>N/A</td>
+      <td><a href='questions/day22.html'>Day 22</a><br/><a href='questions/day23.html'>Day 23</a></td>
+      <td><a href='questions/day24.html'>Day 24</a><br/><a href='questions/day25.html'>Day 25</a></td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Exercise</td>
-      <td><a href='assign/midterm.html'>Midterm Project</a></td>
-      <td></td>
-      <td></td>
+      <td>N/A<br><a href='exercise/ex23.html'>Exercise 23</a></td>
+      <td><a href='exercise/ex24.html'>Exercise 24</a><br><a href='exercise/ex25.html'>Exercise 25</a></td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
-      <td></td>
-      <td></td>
-      <td><a href='resources/MidtermReview-solutions.pdf'>Midterm Review Solutions</a><br><a href='resources/Midterm-Fall2019-solutions.pdf'>Fall 2019 Midterm Solutions</a></td>
-    </tr>
-    <tr>
-      <td>Lecture<br>Slides</td>
-      <td><a href='slides/summer24_slides/summer24_session12_day00-00_annotated.pdf'>Day 12 Notes (annotated)</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Recorded<br>Sessions</td>
       <td></td>
       <td></td>
       <td></td>
@@ -257,6 +244,7 @@ button type="button" id="week_5_toggle" class="week_control_button">Week 5 (23-J
   </tbody>
 </table>
 </div>
+<!--
 <button type="button" id="week_6_toggle" class="week_control_button">Week 6 (30-Jun to 2-Jul)</button>
 <div id="week_6" class="collapsible">
 <table>
@@ -280,13 +268,13 @@ button type="button" id="week_5_toggle" class="week_control_button">Week 5 (23-J
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td><a href='questions/day22.html'>Day 22</a></td>
-      <td><a href='questions/day23.html'>Day 23</a><br><a href='questions/day24.html'>Day 24</a></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Exercise</td>
       <td></td>
-      <td><a href='exercise/ex23.html'>Exercise 23</a><br><a href='exercise/ex24.html'>Exercise 24</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
@@ -327,7 +315,7 @@ button type="button" id="week_5_toggle" class="week_control_button">Week 5 (23-J
     <tr>
       <td>Slides</td>
       <td></td>
-      <td><a href='slides/day25_cpp_file_io_stringstream.pdf'>C++ I/O stream and stringstream</a><br><a href='slides/day25_intro_to_oo.pdf'>Intro to Object Oriented Programming</a><br><a href='slides/day26_cpp_reference.pdf'>References</a><br><a href='slides/day26_dynamic_memory_allocation.pdf'>Dynamic Memory Allocation</a></td>
+      <td><a href='slides/day26_cpp_reference.pdf'>References</a><br><a href='slides/day26_dynamic_memory_allocation.pdf'>Dynamic Memory Allocation</a></td>
       <td><a href='slides/day27_cpp_classes.pdf'>C++ Classes</a><br><a href='slides/day27_default_constructor.pdf'>Default Constructors</a><br><a href='slides/day28_constructors.pdf'>Constructors and default arguments</a><br><a href='slides/day28_destructors.pdf'>Destructors</a></td>
     </tr>
     <tr>
