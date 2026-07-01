@@ -207,7 +207,7 @@ the materials for that week.
       <th></th>
       <th>Day 12 (29-Jun)</th>
       <th>Day 13 (1-Jul)</th>
-      <th>Day 14 (3-Jul)</th>
+      <th>(3-Jul)</th>
     </tr>
   </thead>
   <tbody>
@@ -244,55 +244,55 @@ the materials for that week.
   </tbody>
 </table>
 </div>
-<!--
-<button type="button" id="week_6_toggle" class="week_control_button">Week 6 (30-Jun to 2-Jul)</button>
+<button type="button" id="week_6_toggle" class="week_control_button">Week 6 (6-Jul to 10-Jul)</button>
 <div id="week_6" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 15 (30-Jun)</th>
-      <th>Day 16 (2-Jul)</th>
+      <th>Day 14 (6-Jul)</th>
+      <th>Day 15 (8-Jul)</th>
+      <th>Day 15 (10-Jul)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
-      <td></td>
-      <td></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4fcd7033-f754-429f-b55b-ae230027a516'>References</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9978853-6c9b-4cc3-b62d-ae230027a4cc'>Dynamic Memory Allocation</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a1a7afe-6165-4e33-9567-ae230027a431'>C++ Classes</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e485b33-028d-45e6-be18-ae230027a3d3'>Default Constructors</a></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62080530-d06e-4a0e-be06-ae230027a050'>Constructors and default arguments</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ea9792a-afab-4319-85f1-ae2300279fe3'>Destructors</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c8031d1-8509-4b22-881b-ae2300279f65'>Function overloading</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee4c0ea7-24f8-426a-9291-ae2300279f0e'>Operator overloading</a><br></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9091b95-ab29-46fe-82b8-ae2300279e93'>Initialization and assignment</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=181313b7-6b07-400c-addf-ae2300279df3'>Rule of 3</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fed0c83c-bcd8-4341-8b0e-ae2300279cf6'>Template functions</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06bf6f38-8f76-4b19-80f4-ae2300279c79'>Template classes</a></td>
     </tr>
     <tr>
       <td>Slides</td>
-      <td></td>
+      <td><a href='slides/day26_cpp_reference.pdf'>References</a><br><a href='slides/day26_dynamic_memory_allocation.pdf'>Dynamic Memory Allocation</a>
+      <a href='slides/day27_cpp_classes.pdf'>C++ Classes</a><br><a href='slides/day27_default_constructor.pdf'>Default Constructors</a><br></td>
+      <td><a href='slides/day28_constructors.pdf'>Constructors and default arguments</a><br><a href='slides/day28_destructors.pdf'>Destructors</a><br><a href='slides/day29_function_overloading.pdf'>Function overloading</a><br><a href='slides/day29_operator_overloading.pdf'>Operator overloading</a>
+      </td>
+      <td><a href='slides/day30_initialization_assignments.pdf'>Initialization and assignment</a><br><a href='slides/day30_rule_of_3.pdf'>Rule of 3</a><br>
+      <a href='slides/day31_template_functions.pdf'>Template functions</a><br><a href='slides/day31_template_classes.pdf'>Template classes</a>
+      </td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td></td>
-      <td></td>
+      <td><a href='questions/day26.html'>Day 26</a><br><a href='questions/day27.html'>Day 27</a></td>
+      <td><a href='questions/day28.html'>Day 28</a><br><a href='questions/day29.html'>Day 29</a></td>
+      <td><a href='questions/day30.html'>Day 30</a><br><a href='questions/day31.html'>Day 31</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
-      <td></td>
-      <td></td>
+      <td><a href='exercise/ex26.html'>Exercise 26</a><br><a href='exercise/ex27.html'>Exercise 27</a></td>
+      <td><a href='exercise/ex28.html'>Exercise 28</a><br><a href='exercise/ex29.html'>Exercise 29</a></td>
+      <td><a href='exercise/ex30.html'>Exercise 30</a><br><a href='exercise/ex31.html'>Exercise 31</a></td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
       <td></td>
       <td></td>
     </tr>
-    <tr>
-      <td>Lecture<br>Slides</td>
-      <td><a href='slides/summer24_slides/summer24_session13_day22-00_annotated.pdf'>Day 13 Notes (annotated)</a></td>
-      <td><a href='slides/summer24_slides/summer24_session15_day23-24_annotated.pdf'>Day 15 Notes (annotated)</a></td>
-    </tr>
-    <tr>
-      <td>Recorded<br>Sessions</td>
-      <td></td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 </div>
+<!--
 <button type="button" id="week_7_toggle" class="week_control_button">Week 7 (7-Jul to 11-Jul)</button>
 <div id="week_7" class="collapsible">
 <table>
@@ -308,14 +308,13 @@ the materials for that week.
     <tr>
       <td>Videos</td>
       <td></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f35cdf8e-80d0-4d88-b9e3-ae2300279562'>C++ I/O stream and stringstream</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=090adf84-0330-4c2f-9c73-ae230027a599'>Intro to Object Oriented Programming</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4fcd7033-f754-429f-b55b-ae230027a516'>References</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9978853-6c9b-4cc3-b62d-ae230027a4cc'>Dynamic Memory Allocation</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a1a7afe-6165-4e33-9567-ae230027a431'>C++ Classes</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e485b33-028d-45e6-be18-ae230027a3d3'>Default Constructors</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62080530-d06e-4a0e-be06-ae230027a050'>Constructors and default arguments</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ea9792a-afab-4319-85f1-ae2300279fe3'>Destructors</a></td>
+      <td></td>
+      <td><br></td>
     </tr>
     <tr>
       <td>Slides</td>
       <td></td>
-      <td><a href='slides/day26_cpp_reference.pdf'>References</a><br><a href='slides/day26_dynamic_memory_allocation.pdf'>Dynamic Memory Allocation</a></td>
-      <td><a href='slides/day27_cpp_classes.pdf'>C++ Classes</a><br><a href='slides/day27_default_constructor.pdf'>Default Constructors</a><br><a href='slides/day28_constructors.pdf'>Constructors and default arguments</a><br><a href='slides/day28_destructors.pdf'>Destructors</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
@@ -364,14 +363,13 @@ the materials for that week.
   <tbody>
     <tr>
       <td>Videos</td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c8031d1-8509-4b22-881b-ae2300279f65'>Function overloading</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee4c0ea7-24f8-426a-9291-ae2300279f0e'>Operator overloading</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9091b95-ab29-46fe-82b8-ae2300279e93'>Initialization and assignment</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=181313b7-6b07-400c-addf-ae2300279df3'>Rule of 3</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fed0c83c-bcd8-4341-8b0e-ae2300279cf6'>Template functions</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06bf6f38-8f76-4b19-80f4-ae2300279c79'>Template classes</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7cdea279-e109-4ba8-b99d-ae2300279bea'>Inheritance</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=873d6ec0-a562-47f2-b098-ae2300279b28'>Polymorphism</a></td>
+      <td></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7cdea279-e109-4ba8-b99d-ae2300279bea'>Inheritance</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=873d6ec0-a562-47f2-b098-ae2300279b28'>Polymorphism</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=162dba01-3c6a-4358-8179-ae23002799fe'>Dynamic dispatch</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e849f80-9dec-47c1-aaac-ae2300279986'>Function hiding and abstract classes</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d6fdb70-910c-4823-b4a0-ae23002797a1'>Virtual destructors</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2edb2b97-e40e-4200-94ce-ae23002790c9'>OO Design & UML Diagrams</a></td>
     </tr>
     <tr>
       <td>Slides</td>
-      <td><a href='slides/day29_function_overloading.pdf'>Function overloading</a><br><a href='slides/day29_operator_overloading.pdf'>Operator overloading</a><br><a href='slides/day30_initialization_assignments.pdf'>Initialization and assignment</a><br><a href='slides/day30_rule_of_3.pdf'>Rule of 3</a></td>
-      <td><a href='slides/day31_template_functions.pdf'>Template functions</a><br><a href='slides/day31_template_classes.pdf'>Template classes</a><br><a href='slides/day32_inheritance.pdf'>Inheritance</a><br><a href='slides/day32_polymorphism.pdf'>Polymorphism</a></td>
+      <a href='slides/day32_inheritance.pdf'>Inheritance</a><br><a href='slides/day32_polymorphism.pdf'>Polymorphism</a></td>
       <td><a href='slides/day33_dynamic_dispatch.pdf'>Dynamic dispatch</a><br><a href='slides/day33_function_hiding_abstract_classes.pdf'>Function hiding and abstract classes</a><br><a href='slides/day33_virtual_destructors.pdf'>Virtual destructors</a><br><a href='slides/day34_oo_design_uml.pdf'>OO Design & UML Diagrams</a></td>
     </tr>
     <tr>
