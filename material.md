@@ -252,7 +252,7 @@ the materials for that week.
       <th></th>
       <th>Day 14 (6-Jul)</th>
       <th>Day 15 (8-Jul)</th>
-      <th>Day 15 (10-Jul)</th>
+      <th>Day 16 (10-Jul)</th>
     </tr>
   </thead>
   <tbody>
