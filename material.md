@@ -337,63 +337,53 @@ the materials for that week.
   </tbody>
 </table>
 </div>
-<!--
 <button type="button" id="week_8_toggle" class="week_control_button">Week 8 (14-Jul to 18-Jul)</button>
 <div id="week_8" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 20 (14-Jul)</th>
-      <th>Day 21 (16-Jul)</th>
-      <th>Day 22 (18-Jul)</th>
+      <th>Day 20 (20-Jul)</th>
+      <th>Day 21 (22-Jul)</th>
+      <th>Day 22 (24-Jul)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
       <td></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7cdea279-e109-4ba8-b99d-ae2300279bea'>Inheritance</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=873d6ec0-a562-47f2-b098-ae2300279b28'>Polymorphism</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=162dba01-3c6a-4358-8179-ae23002799fe'>Dynamic dispatch</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e849f80-9dec-47c1-aaac-ae2300279986'>Function hiding and abstract classes</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d6fdb70-910c-4823-b4a0-ae23002797a1'>Virtual destructors</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2edb2b97-e40e-4200-94ce-ae23002790c9'>OO Design & UML Diagrams</a></td>
+      <td>Final Project</td>
+      <td>Final Project<br>Prep for final exam</td>
+      <td>Final Exam Day</td>
     </tr>
     <tr>
       <td>Slides</td>
-      <a href='slides/day32_inheritance.pdf'>Inheritance</a><br><a href='slides/day32_polymorphism.pdf'>Polymorphism</a></td>
-      <td><a href='slides/day33_dynamic_dispatch.pdf'>Dynamic dispatch</a><br><a href='slides/day33_function_hiding_abstract_classes.pdf'>Function hiding and abstract classes</a><br><a href='slides/day33_virtual_destructors.pdf'>Virtual destructors</a><br><a href='slides/day34_oo_design_uml.pdf'>OO Design & UML Diagrams</a></td>
+      <td>Final Project</td>
+      <td>Final Project<br>Prep for final exam</td>
+      <td>Final Exam</td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td><a href='questions/day29.html'>Day 29</a><br><a href='questions/day30.html'>Day 30</a></td>
-      <td><a href='questions/day31.html'>Day 31</a><br><a href='questions/day32.html'>Day 32</a></td>
-      <td><a href='questions/day33.html'>Day 33</a><br><a href='questions/day34.html'>Day 34</a></td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>Exercise</td>
-      <td><a href='exercise/ex29.html'>Exercise 29</a><br><a href='exercise/ex30.html'>Exercise 30</a></td>
-      <td><a href='exercise/ex31.html'>Exercise 31</a><br><a href='exercise/ex32.html'>Exercise 32</a></td>
-      <td><a href='exercise/ex33.html'>Exercise 33</a><br>Work on final project</td>
+      <td>Final Project</td>
+      <td>Final Project</td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Lecture<br>Slides</td>
-      <td><a href='slides/summer24_slides/summer24_session18_day29-30_annotated.pdf'>Day 18 Notes (annotated)</a></td>
-      <td><a href='slides/summer24_slides/summer24_session19_day31-32_annotated.pdf'>Day 19 Notes (annotated)</a></td>
-      <td><a href='slides/summer24_slides/summer24_session20_day33-34_annotated.pdf'>Day 20 Notes (annotated)</a></td>
-    </tr>
-    <tr>
-      <td>Recorded<br>Sessions</td>
-      <td></td>
+      <td><a href='resources/FinalReview.pdf'>Final Exam Review Questions</a><br/><a href='resources/FinalReview_SOLUTIONS.pdf'>Final Exam Review Solutions</a></td>
       <td></td>
       <td></td>
     </tr>
   </tbody>
 </table>
 </div>
+<!--
 <button type="button" id="week_9_toggle" class="week_control_button">Week 9 (21-Jul to 25-Jul)</button>
 <div id="week_9" class="collapsible">
 <table>
