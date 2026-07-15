@@ -351,7 +351,6 @@ the materials for that week.
   <tbody>
     <tr>
       <td>Videos</td>
-      <td></td>
       <td>Final Project</td>
       <td>Final Project<br>Prep for final exam</td>
       <td>Final Exam Day</td>
